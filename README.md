@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishrat.
-- 👀 I’m interested in Full Stack Web Development.
+- 👀 I’m interested in Python.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on Frontend Web Development.
 - 📫 How to reach me:  [Twitter - @_dev_code_](https://twitter.com/_dev_code_).
