@@ -1,4 +1,4 @@
-Hi 👋 My name is Ishrat
+Hey 👋 I'm Ishrat
 =======================
 
 Web Developer
