@@ -4,7 +4,6 @@ Hey 👋 I'm Ishrat
 Web Developer
 -------------
 
-* 🌍  I'm based in Pakistan
 * 🧠  I'm learning React JS
 * 🤝  I'm open to collaborating on Front-end web development, technical content writing, and WordPress development.
 
