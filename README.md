@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🧠  I'm learning React JS
-* 🤝  I'm open to collaborating on Front-end web development, technical content writing, and WordPress development.
+* 🤝  I'm open to collaborat on Front-end web development, technical content writing, and WordPress designing.
 
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
