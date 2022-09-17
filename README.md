@@ -4,10 +4,15 @@ Hey 👋 I'm Ishrat
 Web Developer 
 -------------
 
-🧠  I'm learning React.js.<br>
-✍🏻  Creating content on Twitter.<br>
-🤝  I'm open to collaborat on Front-end development, technical content writing, and WordPress designing.<br>
-🌐  Portfolio website https://ishrat.netlify.app/
+🧠  Currently, I'm learning React.js.
+
+✍🏻  Creating content on Twitter.
+
+🤝  I'm open to collaborat on Front-end development, technical content writing, and WordPress designing.
+
+🌐  Portfolio website https://ishrat.netlify.app/.
+
+📩  Contact me at ishratumar18@gmail.com .
 
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
