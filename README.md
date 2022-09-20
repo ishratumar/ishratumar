@@ -4,7 +4,7 @@ Hey 👋 I'm Ishrat
 Web Developer 
 -------------
 
-🧠  Currently, I'm learning React.js.
+🧠  Currently learning React.js.
 
 ✍🏻  Creating content on Twitter.
 
