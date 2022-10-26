@@ -1,18 +1,22 @@
 Hey 👋 I'm Ishrat
 =====================================
 
-Web Developer 
--------------
+A passionate web developer from Pakistan.
+----------------------------------------
 
-🧠  Currently learning React.js.
+- 🌱 I’m currently learning **ReactJS**
 
-✍🏻  Creating content on Twitter.
+- ✍🏻  Creating content on [Twitter](https://twitter.com/ishratUmar18)
 
-🤝  I'm open to collaborat on Front-end development, technical content writing, and WordPress designing.
+- 👯 I’m open to collaborate on **on Front-end development, technical content writing, and WordPress designing.**
 
-🌐  Portfolio website https://ishrat.netlify.app/.
+- 👨‍💻 Portfolio website [https://ishrat.netlify.app/](https://ishrat.netlify.app/)
 
-📩  Contact me at ishratumar18@gmail.com .
+- 📝 I regularly write articles on [Medium](https://ishratumar.medium.com/)
+
+- 📫  Contact me at **ishratumar18@gmail.com** 
+
+- 💬 Ask me about **Anything related to web development**
 
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
