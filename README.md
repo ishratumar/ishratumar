@@ -6,6 +6,7 @@ A passionate web developer from Pakistan.
 <table style="border: none;">
 <tr>
 <td>
+
 - 🌱 I’m currently learning **ReactJS**
 
 - ✍🏻  Creating content on [Twitter](https://twitter.com/ishratUmar18)
@@ -19,9 +20,10 @@ A passionate web developer from Pakistan.
 - 📫  Contact me at **ishratumar18@gmail.com** 
 
 - 💬 Ask me about **Anything related to web development**
-<a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/ishratUmar18" target="_blank" rel="noreferrer"><img
+
+<a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/ishratUmar18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ishratUmar18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
@@ -57,6 +59,8 @@ src="https://img.shields.io/github/followers/ishratUmar18?logo=github&style=for-
 </td>
 </tr>
 </table>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
