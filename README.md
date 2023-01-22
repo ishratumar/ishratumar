@@ -3,7 +3,9 @@ Hey 👋 I'm Ishrat
 
 A passionate web developer from Pakistan.
 ----------------------------------------
-
+<table style="border: none;">
+<tr>
+<td>
 - 🌱 I’m currently learning **ReactJS**
 
 - ✍🏻  Creating content on [Twitter](https://twitter.com/ishratUmar18)
@@ -17,7 +19,6 @@ A passionate web developer from Pakistan.
 - 📫  Contact me at **ishratumar18@gmail.com** 
 
 - 💬 Ask me about **Anything related to web development**
-
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/ishratUmar18" target="_blank" rel="noreferrer"><img
@@ -48,7 +49,12 @@ src="https://img.shields.io/github/followers/ishratUmar18?logo=github&style=for-
 <a href="https://ishratumar.medium.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width="36" height="32" /></a>  
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 <a href="https://dev.to/ishratumar" target="_blank" rel="noreferrer"><img src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="32" height="32" /></a></p>
-
+</td>
+<td>
+<a href="https://app.daily.dev/ishratumar"><img src="https://github.com/ishratUmar18/ishratUmar18/blob/main/devcard.svg" width="400" alt="Ishrat's Dev Card"/></a>
+</td>
+</tr>
+</table>
 ### Badges
 
 <b>My GitHub Stats</b>
