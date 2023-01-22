@@ -44,10 +44,12 @@ src="https://img.shields.io/github/followers/ishratUmar18?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/ishratUmar18" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" width="32" height="32" /></a>
+
+<p align="left"> 
+<a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+<a href="https://www.codepen.io/ishratUmar18" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/C/codepen-logo-1B85489666-seeklogo.com.png" width="32" height="32" /></a>
 <a href="https://hashnode.com/@ishratUmar18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 <a href="https://ishratumar.medium.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/36799589/96227773-3acc6080-0fb2-11eb-837f-f5026d472969.jpg" width="36" height="32" /></a>  
-<a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
 <a href="https://dev.to/ishratumar" target="_blank" rel="noreferrer"><img src="https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" width="32" height="32" /></a></p>
 </td>
 <td>
