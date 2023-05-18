@@ -21,7 +21,7 @@ A passionate web developer from Pakistan.
 
 - ☕ Enjoyed my work? Energize my coding with a virtual **[coffee](https://bmc.link/ishratUmar18)**
   
-- 👯 I’m open for collaborations on ** Frontend Development, Technical Writing, and WordPress designing.**
+- 👯 I’m open for collaborations on **Frontend Development, Technical Writing, and WordPress**
   
 - 🌟 Have any suggestions to share, I'd love to hear from you. **[Send Feedback](https://tally.so/r/meDa6O)**
 
