@@ -23,7 +23,7 @@ A passionate web developer from Pakistan.
   
 - 👯 I’m open for collaborations on **Frontend Development, Technical Writing, and WordPress**
   
-- 🌟 Have any suggestions to share, I'd love to hear from you **[Send Feedback](https://tally.so/r/meDa6O)**
+- 🌟 Have any suggestions to share, I'd love to hear from you. **[Send feedback](https://tally.so/r/meDa6O)**
 
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
