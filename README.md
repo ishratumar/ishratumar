@@ -7,19 +7,23 @@ A passionate web developer from Pakistan.
 <tr>
 <td>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently exploring **TaiwindCSS, Next.js, Framer Motion**
 
-- ✍🏻  Creating content on [Twitter](https://twitter.com/ishratUmar18)
-
-- 👯 I’m open to collaborate on **on Front-end development, technical content writing, and WordPress designing.**
+- ✍🏻 Creating content on [Twitter](https://twitter.com/ishratUmar18)
 
 - 👨‍💻 Portfolio website [https://ishrat.netlify.app/](https://ishrat.netlify.app/)
 
 - 📝 I regularly write articles on [Medium](https://ishratumar.medium.com/)
 
-- 📫  Contact me at **ishratumar18@gmail.com** 
+- 📫 Contact me at **ishratumar18@gmail.com** 
 
 - 💬 Ask me about **Anything related to web development**
+
+- ☕ Enjoyed my work? Energize my coding with a virtual **[coffee](https://bmc.link/ishratUmar18)**
+  
+- 👯 I’m open for collaborations on ** Frontend Development, Technical Writing, and WordPress designing.**
+  
+- 🌟 Have any suggestions to share, I'd love to hear from you. **[Send Feedback](https://tally.so/r/meDa6O)**
 
 <a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img 
 src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
