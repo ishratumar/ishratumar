@@ -13,7 +13,7 @@ A passionate web developer from Pakistan.
 
 - 👨‍💻 Portfolio website [https://ishrat.netlify.app/](https://ishrat.netlify.app/)
 
-- 📝 I regularly write articles on [Medium](https://ishratumar.medium.com/)
+- 📝 I regularly write on [Medium](https://ishratumar.medium.com/)
 
 - 📫 Contact me at **ishratumar18@gmail.com** 
 
