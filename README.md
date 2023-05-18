@@ -7,7 +7,7 @@ A passionate web developer from Pakistan.
 <tr>
 <td>
 
-- 🌱 I’m currently exploring **TaiwindCSS, Next.js, Framer Motion**
+- 🌱 I’m currently exploring **TailwindCSS, Next.js, Framer Motion**
 
 - ✍🏻 Creating content on [Twitter](https://twitter.com/ishratUmar18)
 
