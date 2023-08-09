@@ -9,7 +9,7 @@ A passionate web developer from Pakistan.
 
 - 🌱 I’m currently exploring **TailwindCSS, Next.js, Framer Motion**
 
-- ✍🏻 Creating content on [Twitter](https://twitter.com/ishratUmar18)
+- ✍🏻 Creating content on [Twitter](https://twitter.com/ishrratumar)
 
 - 👨‍💻 Portfolio website [https://ishrat.netlify.app/](https://ishrat.netlify.app/)
 
