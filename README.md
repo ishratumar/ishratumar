@@ -25,10 +25,10 @@ A passionate web developer from Pakistan.
   
 - 🌟 Have any suggestions to share, I'd love to hear from you. **[Send feedback](https://tally.so/r/meDa6O)**
 
-<a href="https://www.twitter.com/ishratUmar18" target="_blank" rel="noreferrer"><img 
-src="https://img.shields.io/twitter/follow/ishratUmar18?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-<a href="https://www.github.com/ishratUmar18" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ishratUmar18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/ishrratumar" target="_blank" rel="noreferrer"><img 
+src="https://img.shields.io/twitter/follow/ishrratumar?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+<a href="https://www.github.com/ishratumar" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ishratumar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
